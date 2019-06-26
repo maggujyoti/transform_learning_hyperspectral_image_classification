@@ -1,4 +1,4 @@
-# transform_learning_for_hyperspectral_image_classification
+# Transform_learning_for_hyperspectral_image_classification
 Label-Consistent Transform Learning for Hyperspectral Image Classification
 
 MAtlab Code: Run Demo.m by putting all the attached files in same folder to see example. 
